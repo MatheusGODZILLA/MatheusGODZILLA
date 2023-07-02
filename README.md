@@ -6,20 +6,20 @@ My name is Matheus da Silva (or Matheus\_ GODZILLA)
 • Aspiring Programmer
 ---------------------
 
-\- To begin with, I have always had an affinity for the computer field and have always thought of pursuing a career in this area. 
+\- First of all, I have always had an affinity for the area of information technology and computing. Thus, I always thought of pursuing a career in this area.  
 
-\- Based on this, at the end of my high school I took the entrance exam for Systems Analysis and Development at IFPI and I have been following the course. 
+\- Based on this, at the end of my high school studies I took the entrance exam for the System Analysis and Development course at the Instituto Federal do Piauí (IFPI) and I have been developing myself in college. 
 
-\- I am still a beginner in the art of programming, but I am doing my best and aspire to be a good professional in the future.  
+\- I am still a beginner in the art of programming, but I am taking the first steps and I aim to be a good professional in the future.  
                                                                               
 * 🌍  I'm based in Picos - PI
-* 🖥️  See my portfolio at [My Replit.](http://replit.com/@matheusgodzilla)
+* 🖥️  See my portfolio here on GitHub or at [My Replit.](http://replit.com/@matheusgodzilla) 
 * ✉️  You can contact me at [contagodzillajapan@gmail.com](mailto:contagodzillajapan@gmail.com)           
 * 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
 * ⚡  "We are Monsters. We are the impossible. We are GODZILLA!!!"                      
 
 
-### Skills
+### Skills (learning at the moment)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

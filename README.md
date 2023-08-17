@@ -40,14 +40,14 @@ Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
 <b>My GitHub Stats:</b>
 
 <a href="https://github.com/MatheusGODZILLA/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusGODZILLA&show_icons=true&theme=synthwave" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusGODZILLA&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/MatheusGODZILLA/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGODZILLA&layout=compact&show_icons=true&theme=synthwave&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGODZILLA&layout=compact&show_icons=true&theme=synthwave&langs_count=8&card_width=320" />
 </a>
 
 #
-<a href="http://www.github.com/MatheusGODZILLA"><img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGODZILLA&theme=synthwave" /></a>
+<a href="http://www.github.com/MatheusGODZILLA"><img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGODZILLA&theme=synthwave" /></a>
 
 #
 <b>Top Repositories:</b>

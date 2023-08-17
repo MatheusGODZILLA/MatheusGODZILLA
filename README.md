@@ -1,4 +1,4 @@
-My name is Matheus da Silva (or Matheus\_ GODZILLA)
+Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
 ================================================================================================================================================================
 
 • Aspiring Programmer
@@ -14,7 +14,9 @@ My name is Matheus da Silva (or Matheus\_ GODZILLA)
 * 🖥️  See my portfolio here on GitHub or at [My Replit.](http://replit.com/@matheusgodzilla) 
 * ✉️  You can contact me at [contagodzillajapan@gmail.com](mailto:contagodzillajapan@gmail.com)           
 * 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
-* ⚡  "We are Monsters. We are the impossible. We are GODZILLA!!!"                      
+* ⚡  "We are Monsters. We are the impossible. We are GODZILLA!!!"
+
+#
 
 
 ### Skills (learning at the moment)
@@ -31,21 +33,32 @@ My name is Matheus da Silva (or Matheus\_ GODZILLA)
 
 <p align="left"> <a href="https://www.github.com/MatheusGODZILLA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/matheusgodzilla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/math_godzilla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@Matheus_GODZILLA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+#
+
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats:</b>
 
-<a href="http://www.github.com/MatheusGODZILLA"><img src="https://github-readme-stats.vercel.app/api?username=MatheusGODZILLA&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="MatheusGODZILLA's GitHub stats" /></a>
+<a href="https://github.com/MatheusGODZILLA/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusGODZILLA&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/MatheusGODZILLA/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGODZILLA&layout=compact&show_icons=true&theme=synthwave&langs_count=8&card_width=320" />
+</a>
 
-<a href="http://www.github.com/MatheusGODZILLA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGODZILLA&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+#
+<a href="http://www.github.com/MatheusGODZILLA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGODZILLA&theme=synthwave" /></a>
 
-<a href="http://www.github.com/MatheusGODZILLA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MatheusGODZILLA&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+#
+<b>Top Repositories:</b>
 
-<a href="https://github.com/MatheusGODZILLA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGODZILLA&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MatheusGODZILLA/godzilla-rush">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGODZILLA&repo=godzilla-rush&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/ifpi-picos/gerenciador-de-livros-pmf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifpi-picos&repo=gerenciador-de-livros-pmf&show_icons=true&theme=synthwave" />
+</a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/MatheusGODZILLA/godzilla-rush" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGODZILLA&repo=godzilla-rush&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## <p align="right">![](https://media.tenor.com/b2Y5wnb-KxUAAAAi/godzilla.gif)<p>
   

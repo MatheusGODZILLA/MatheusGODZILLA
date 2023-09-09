@@ -12,7 +12,7 @@ Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
                                                                               
 * 🌍  I'm based in Picos - PI
 * 🖥️  See my portfolio here on GitHub or at [My Replit.](http://replit.com/@matheusgodzilla) 
-* ✉️  You can contact me at [contagodzillajapan@gmail.com](mailto:contagodzillajapan@gmail.com)           
+* ✉️  You can contact me at [matheus.dasillva1954@gmail.com](mailto:matheus.dasillva1954@gmail.com)           
 * 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
 * ⚡  "We are Monsters. We are the impossible. We are GODZILLA!!!"
 

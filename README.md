@@ -15,9 +15,7 @@ Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
 * ✉️  You can contact me at [matheus.dasillva1954@gmail.com](mailto:matheus.dasillva1954@gmail.com)           
 * 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
 * ⚡  "We are Monsters. We are the impossible. We are GODZILLA!!!"
-
 #
-
 
 ### Skills (learning at the moment)
 

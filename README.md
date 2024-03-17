@@ -58,8 +58,8 @@ Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
 <a href="https://github.com/MatheusGODZILLA/godzilla-rush">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGODZILLA&repo=godzilla-rush&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/ifpi-picos/gerenciador-de-livros-pmf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifpi-picos&repo=gerenciador-de-livros-pmf&show_icons=true&theme=synthwave" />
+<a href="https://github.com/ifpi-picos/projeto-web-matheus-da-silva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifpi-picos&repo=projeto-web-matheus-da-silva&show_icons=true&theme=synthwave" />
 </a>
 
 

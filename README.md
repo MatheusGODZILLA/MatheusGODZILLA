@@ -1,21 +1,29 @@
 Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
 ================================================================================================================================================================
 
-• Aspiring Programmer
----------------------
+# Aspiring Programmer
 
-\- First of all, I have always had an affinity for the area of information technology and computing. Thus, I always thought of pursuing a career in this area.  
+## About Me 👨‍💻
 
-\- Based on this, at the end of my high school studies I took the entrance exam for the System Analysis and Development course at the Instituto Federal do Piauí (IFPI) and I have been developing myself in college. 
+### EN
+I have always had a strong affinity for Information Technology and Computing, which naturally led me to pursue a career in this field. With this passion in mind, I applied for the undergraduate course in Systems Analysis and Development at the Federal Institute of Piauí (IFPI) after completing high school. I am currently pursuing this degree, dedicating myself to improving my skills and knowledge.
 
-\- I am still a beginner in the art of programming, but I am taking the first steps and I aim to be a good professional in the future.  
-                                                                              
-* 🌍  I'm based in Picos - PI
-* 🖥️  See my portfolio here on GitHub or at [My Replit.](http://replit.com/@matheusgodzilla) 
-* ✉️  You can contact me at [matheus.dasillva1954@gmail.com](mailto:matheus.dasillva1954@gmail.com)           
-* 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
-* ⚡  "We are Monsters. We are the impossible. We are GODZILLA!!!"
-#
+### PT-BR
+Desde sempre, tive uma forte afinidade com a área de Tecnologia da Informação e Computação, o que me levou naturalmente a considerar uma carreira nesse campo. Com essa paixão em mente, ao concluir o ensino médio, decidi prestar vestibular para o curso superior de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí (IFPI). Atualmente, estou cursando essa graduação, dedicando-me ao máximo para aprimorar minhas habilidades e conhecimentos.
+
+## Contact 📩
+
+- 🌍  Location: Picos - PI
+- 🖥️  Portfolio: [GitHub](https://github.com/MatheusGODZILLA)
+- ✉️  Email: [matheus.dasillva1954@gmail.com](mailto:matheus.dasillva1954@gmail.com)
+
+## Learning Goals 🧠
+
+I am currently focusing on developing my skills in JavaScript, HTML, CSS, and Next.js to prepare for a career in web development.
+
+## Personal Motto ⚡
+
+> "We are Monsters. We are the impossible. We are GODZILLA!!!"
 
 ### Skills (learning at the moment)
 
@@ -26,6 +34,9 @@ Hello there... I am Matheus da Silva (or Matheus\_ GODZILLA)
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
+  </a>
 </p>
 
 ### Contacts and Social Media:
